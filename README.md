@@ -1,4 +1,4 @@
-클라이언트측의 페이지 구조
+<center><h1>클라이언트측의 페이지 구조
 
 ![client](https://user-images.githubusercontent.com/37359972/37387281-254027ae-279f-11e8-9fec-3faea0985be9.png)
 
