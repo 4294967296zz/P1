@@ -6,6 +6,10 @@
   관리자와 클라이언트 두개의 사이드로 구성되어 있습니다.
 
 
++   웹 화면 구성 : HTML, CSS, PHP, Javascript
+
++  개발 Tool : Xampp (Apache, MySQL), Netbeans
+
 
   + 관리자 Side
 
