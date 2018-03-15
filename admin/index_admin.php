@@ -110,6 +110,7 @@ and open the template in the editor.
         </tr>
         </thead>
         </table>
+                <h1>관리자 페이지</h1>
             </center>
         </div>
     <?php

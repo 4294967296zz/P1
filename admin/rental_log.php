@@ -47,7 +47,7 @@ and open the template in the editor.
                 width : 250px;
             }
             </style>
-        <title>회원 목록</title>
+        <title>물품대여 기록</title>
     </head>
     <body>
         <?php

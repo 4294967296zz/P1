@@ -15,11 +15,11 @@ and open the template in the editor.
         $s_usr=$_POST['s_usr'];
         $s_name=$_POST['s_name'];
         $s_sttime=$_POST['s_sttime'];
-        $s_extime=$_POST['s_extme']; 
+        $s_extime=$_POST['s_extime']; 
         
         if($s_extime==NULL){
             $s_extime=date('Y-m-d H:i:s');
-        
+        }
         $conn=mysqli_connect("localhost", "root", "dkssud1313!", "test_db");
         $sql2="insert into seat_log_db values (NULL, '".$s_usr."', '".$s_name."', "
                 . "'".$s_sttime."', '".$s_extime."', '".$s_type."')";
@@ -40,7 +40,7 @@ and open the template in the editor.
             echo "<meta http-equiv='refresh' content='1;url=status_s.php?page_no='0'>";
         }
         }
-        }
+        
         ?>
     </body>
 </html>

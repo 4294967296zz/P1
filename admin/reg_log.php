@@ -48,7 +48,7 @@ and open the template in the editor.
                 font-weight: bold;
             }
             </style>
-        <title>회원 목록</title>
+        <title>이용권 등록 기록</title>
     </head>
     <body><center>
         <?php
