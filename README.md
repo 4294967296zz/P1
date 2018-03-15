@@ -39,6 +39,15 @@
     
      --------------------------------
      
+## 관리자 로그인시 관리자페이지로 리다이렉트
+
+![_](https://user-images.githubusercontent.com/37359972/37442622-c05d4b4e-284a-11e8-8b0c-7068bca926dd.gif)
+
+## 이용자의 게시판 및 댓글활용
+
+![default](https://user-images.githubusercontent.com/37359972/37442660-f2994b8a-284a-11e8-95b2-c82fdfcdda55.gif)
+
+
 ## 데이터베이스 구조
   8개의 테이블로 구성되어 있습니다.
 
