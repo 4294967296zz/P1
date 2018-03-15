@@ -47,6 +47,13 @@
 
 ![default](https://user-images.githubusercontent.com/37359972/37442660-f2994b8a-284a-11e8-95b2-c82fdfcdda55.gif)
 
+## 이용자의 좌석이용 시스템
+
+![default](https://user-images.githubusercontent.com/37359972/37442711-29678dca-284b-11e8-8e11-b2e9e8cc9e5b.gif)
+
+## 관리자의 좌석관리 시스템
+
+![_](https://user-images.githubusercontent.com/37359972/37442728-3ec09e96-284b-11e8-926c-7d3a32728fef.gif)
 
 ## 데이터베이스 구조
   8개의 테이블로 구성되어 있습니다.
