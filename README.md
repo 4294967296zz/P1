@@ -49,7 +49,7 @@
 
 ## 좌석 시스템
 
-  + 이용자
+  + 
   
   
 ![default](https://user-images.githubusercontent.com/37359972/37442861-df5c6d1c-284b-11e8-9944-94367aa991a9.gif)
