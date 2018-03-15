@@ -35,6 +35,10 @@
     좌석 및 대여품의 정보확인과 이용신청/반납
     
      --------------------------------
+     
+## 데이터베이스 테이블 구조
+
+![db](https://user-images.githubusercontent.com/37359972/37438699-659cdcbe-2837-11e8-8b3b-9760c12b87e3.png)
 
 ## 클라이언트측의 페이지 구조
 ![client](https://user-images.githubusercontent.com/37359972/37387421-a11ebc96-279f-11e8-8461-43743256ca27.png "클라이언트구성도")
