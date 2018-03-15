@@ -77,7 +77,7 @@ and open the template in the editor.
                     </tr>
                     </thead>
                     <?php
-        echo "<h1> 회원 목록 <br><br>";
+        echo "<h1> 물품 대여 기록 <br><br>";
         $conn=mysqli_connect("localhost", "root", "dkssud1313!", "test_db");
         $sql="select count(*) from rental_log_db";
         $result=mysqli_query($conn,$sql);
